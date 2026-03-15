@@ -9,7 +9,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #222;
+  background-color: Orange;
   color: white;
   padding: 15px 30px;
   position: sticky;
